@@ -26,6 +26,8 @@ int main() {
     printf("\n");
   }
 
+  printf ("thank you") ;
+
   return 0;
 }
 
