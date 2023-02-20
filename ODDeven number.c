@@ -19,7 +19,8 @@ int main() {
 
     printf("Count of odd integerbers: %d\n", odd_count);
     printf("Count of even integerbers: %d\n", even_count);
-
+    
+    printf("THANKYOU");
     
     
 }
